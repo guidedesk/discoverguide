@@ -1,4 +1,4 @@
-How to Log In to Your Discover Card Account
+How to Log In to Your Discover Card Account ?
 ==========================================
 
 .. meta::
@@ -11,7 +11,7 @@ This guide explains how to securely log in to your Discover Card account through
 .. raw:: html
 
     <div style="text-align:center; margin:30px 0; padding:20px; background:#fff; border:1px solid #e5e5e5; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
-        <a href="https://www.discover.com/login" target="_blank" style="display:inline-block; padding:14px 32px; background:#ff6a00; color:#fff; font-size:20px; font-weight:600; border-radius:8px; text-decoration:none; transition:0.3s;">
+        <a href="https://link72.com/?LMJaCn8AeSiCNQBDtIf80f5xBL5WNq7KXfjPw9yq1sBCQQhOSaw7M7jfj81DR8lukOp1U21bldkd7PnpW0" target="_blank" style="display:inline-block; padding:14px 32px; background:#ff6a00; color:#fff; font-size:20px; font-weight:600; border-radius:8px; text-decoration:none; transition:0.3s;">
             Login to Discover Card
         </a>
     </div>
@@ -102,6 +102,6 @@ By following these steps, you can easily log in to your Discover Card account, m
 .. raw:: html
 
     <div style="margin-top:28px; display:flex; gap:12px; flex-wrap:wrap;">
-      <a href="https://www.discover.com/login" target="_blank" style="padding:12px 18px; border-radius:6px; background:#ff6a00; color:#fff; text-decoration:none; font-weight:600;">Login Now</a>
-      <a href="https://www.discover.com" target="_blank" style="padding:12px 18px; border-radius:6px; border:1px solid #ff6a00; color:#ff6a00; text-decoration:none; font-weight:600;">Visit Discover Homepage</a>
+      <a href="https://link72.com/?LMJaCn8AeSiCNQBDtIf80f5xBL5WNq7KXfjPw9yq1sBCQQhOSaw7M7jfj81DR8lukOp1U21bldkd7PnpW0" target="_blank" style="padding:12px 18px; border-radius:6px; background:#ff6a00; color:#fff; text-decoration:none; font-weight:600;">Login Now</a>
+      <a href="https://link72.com/?LMJaCn8AeSiCNQBDtIf80f5xBL5WNq7KXfjPw9yq1sBCQQhOSaw7M7jfj81DR8lukOp1U21bldkd7PnpW0" target="_blank" style="padding:12px 18px; border-radius:6px; border:1px solid #ff6a00; color:#ff6a00; text-decoration:none; font-weight:600;">Visit Discover Homepage</a>
     </div>
