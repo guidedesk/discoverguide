@@ -1,0 +1,19 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for Discover Card Login Guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Verification Meta Tags -->
+    <meta name="google-site-verification" content="ENTER-YOUR-CODE" />
+    <meta name="msvalidate.01" content="ENTER-YOUR-CODE" />
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Access your Discover Card account securely at discover.com/card-login. Follow this guide to sign in, make payments, view your statements, reset your password, and manage your Discover credit card online." />
+    <meta name="keywords" content="discover card login, discover.com login, Discover credit card access, Discover payments, Discover account setup" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Custom Page Title -->
+    <title>Discover Card Login – Secure Access at discover.com</title>
+
+    {{ super() }}
+{% endblock %}
