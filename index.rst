@@ -14,7 +14,6 @@ This guide explains how to securely log in to your Discover Card account through
         <a href="https://www.discover.com/login" target="_blank" style="display:inline-block; padding:14px 32px; background:#ff6a00; color:#fff; font-size:20px; font-weight:600; border-radius:8px; text-decoration:none; transition:0.3s;">
             Login to Discover Card
         </a>
-        <p style="margin-top:10px; font-size:14px; color:#333;">Secure Login • Fast Access • Official Style</p>
     </div>
 
 About Discover Card Login
