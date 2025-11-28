@@ -1,137 +1,108 @@
-Discover Card Login Help Center (www.discovercard.com)
-=================================================
+How to Log In to Your Discover Card Account
+==========================================
 
 .. meta::
-   :description: "How to log in to your Discover Card account at www.discovercard.com. Step-by-step guide for login, password reset, account setup, troubleshooting, and FAQs."
+   :description: "Learn how to log in to your Discover Card account at www.discovercard.com. Step-by-step login guide, password reset instructions, troubleshooting, and secure account access tips."
 
 Welcome
 -------
-This guide provides a complete explanation of how to securely log in to your Discover Card account through
-**www.discovercard.com**. Whether you need access to payments, statements, rewards, or account alerts, this page
-covers everything including login steps, password reset, account recovery, troubleshooting, and security tips.
+This guide explains how to securely log in to your Discover Card account through **www.discovercard.com**. It covers login steps, account recovery, password reset, troubleshooting, and essential security practices.
 
 .. raw:: html
 
     <div style="text-align:center; margin:30px 0; padding:20px; background:#fff; border:1px solid #e5e5e5; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
-        <a href="#" style="display:inline-block; padding:14px 32px; background:#ff6a00; color:#fff; font-size:20px; font-weight:600; border-radius:8px; text-decoration:none; transition:0.3s;">
+        <a href="https://www.discover.com/login" target="_blank" style="display:inline-block; padding:14px 32px; background:#ff6a00; color:#fff; font-size:20px; font-weight:600; border-radius:8px; text-decoration:none; transition:0.3s;">
             Login to Discover Card
         </a>
-        <p style="margin-top:10px; font-size:14px; color:#333;">Secure Login • Fast Access • Official Page Style</p>
+        <p style="margin-top:10px; font-size:14px; color:#333;">Secure Login • Fast Access • Official Style</p>
     </div>
 
 About Discover Card Login
 -------------------------
-Your Discover Card online account allows you to manage:
+Your Discover Card online dashboard gives access to:
 
 - Credit card payments
-- Transactions and statements
-- Rewards and cashback bonuses
-- Account notifications and alerts
-- Paperless billing
-- Security settings and fraud monitoring
+- Monthly statements
+- Rewards & cashback details
+- Account alerts & notifications
+- Security and fraud monitoring settings
 
-To access these features, you must log in through the official site:
+Official website: ``www.discovercard.com``
 
-``www.discovercard.com``
+What You Need Before Logging In
+-------------------------------
+- User ID
+- Password
+- Registered phone or email
+- Last 4 digits of your Discover card (sometimes required)
 
-Information You Need Before Logging In
---------------------------------------
-Before you begin, keep the following details ready:
-
-- **User ID** (created during registration)
-- **Password**
-- **Last 4 digits of your card** (may be needed for verification)
-- **Registered phone or email** (for verification codes)
-
-Step 1 — Visit the Official Login Page
---------------------------------------
-1. Open your browser.
-2. Go to:
-
-   ``https://www.discovercard.com``
-
-3. Click on **Log In** in the top-right corner.
-
-Step 2 — Enter Your Login Credentials
+Step 1: Visit the Discover Login Page
 -------------------------------------
+1. Open your browser.
+2. Go to: ``https://www.discovercard.com``
+3. Select **Log In** on the homepage.
+
+Step 2: Enter Login Credentials
+-------------------------------
 1. Enter your **User ID**.
 2. Enter your **Password**.
-3. Choose whether to check "Remember Me" (optional for personal devices only).
+3. (Optional) Select **Remember Me** for personal devices.
 4. Click **Log In**.
 
-Step 3 — Complete Identity Verification (If Prompted)
------------------------------------------------------
-If Discover detects unusual activity, you may need to:
+Step 3: Complete Verification (If Required)
+------------------------------------------
+Discover may prompt:
 
-- Enter a verification code sent to your phone or email.
-- Answer a security question.
-- Confirm the device you're using.
+- A verification code (SMS or email)
+- Security questions
+- Device confirmation
 
 Resetting Your Password
 -----------------------
-If you cannot log in, follow these steps:
-
-1. Click **Forgot User ID/Password?** on the login page.
-2. Enter your card information and personal details.
-3. Follow on-screen instructions to reset your password.
-4. Create a new secure password to regain access.
+1. Go to the login page.
+2. Select **Forgot User ID/Password?**
+3. Enter your card & identity information.
+4. Follow the instructions to reset your password.
 
 Troubleshooting Login Issues
 ----------------------------
-If you're unable to log in at www.discovercard.com:
-
-**Incorrect Credentials**
-- Double-check your User ID.
-- Reset your password if necessary.
+**Wrong Credentials**
+- Re-enter your User ID/password
+- Use the password reset option
 
 **Browser Issues**
-- Clear cookies and cache.
-- Disable extensions.
-- Try a different browser.
+- Clear cookies & cache
+- Try another browser
 
-**Account Locked**
-- Too many failed attempts can lock your account.
-- Use the "Unlock Account" option.
+**Locked Account**
+- Use the **Unlock Account** option
 
-**Server or Network Problems**
-- Ensure you have a stable internet connection.
-- Try logging in again later.
+**Network Problems**
+- Check your internet connection
+- Retry later
 
-Creating a Discover Account
----------------------------
-If you do not have an account yet:
-
-1. Visit **discover.com**.
-2. Click **Register Account**.
-3. Enter card details, SSN last digits, and personal info.
-4. Create a username and password.
-5. Complete verification to finish setup.
-
-Managing Your Discover Account
-------------------------------
-After logging in, you can:
-
-- Schedule one-time or automatic payments
-- Monitor transactions
-- Download monthly statements
-- Redeem cashback rewards
-- Update personal information
-- Enable account alerts
+Creating a New Discover Account
+-------------------------------
+1. Visit **discover.com**
+2. Select **Register Account**
+3. Enter required card & personal details
+4. Create login credentials
+5. Complete verification
 
 Security Tips
 -------------
-- Never share your login details.
-- Enable 2-factor authentication.
-- Always log out on shared devices.
-- Check account regularly for suspicious activity.
+- Do not share your login credentials
+- Enable 2-step verification
+- Avoid logging in on public Wi-Fi
+- Log out when using shared devices
 
 Final Thoughts
 --------------
-Logging in to your Discover Card account at **www.discovercard.com** is quick and simple when you have your details ready. Use this guide to manage payments, monitor transactions, redeem rewards, and access all features securely.
+By following these steps, you can easily log in to your Discover Card account, manage payments, view statements, and keep your profile secure.
 
 .. raw:: html
 
-    <div style="margin-top:28px; display:flex; gap:12px;">
-      <a href="https://www.discover.com/login" target="_blank" style="padding:12px 18px; border-radius:6px; background:#0456a3; color:#fff; text-decoration:none;">Login Now</a>
-      <a href="https://www.discover.com" target="_blank" style="padding:12px 18px; border-radius:6px; border:1px solid #0456a3; text-decoration:none;">Visit Discover Homepage</a>
+    <div style="margin-top:28px; display:flex; gap:12px; flex-wrap:wrap;">
+      <a href="https://www.discover.com/login" target="_blank" style="padding:12px 18px; border-radius:6px; background:#ff6a00; color:#fff; text-decoration:none; font-weight:600;">Login Now</a>
+      <a href="https://www.discover.com" target="_blank" style="padding:12px 18px; border-radius:6px; border:1px solid #ff6a00; color:#ff6a00; text-decoration:none; font-weight:600;">Visit Discover Homepage</a>
     </div>
